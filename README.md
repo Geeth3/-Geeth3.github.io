@@ -1,2 +1,2 @@
 # Geeth3.github.io
-DataVizProject 
+Cambridge Data Visualisation Project 
